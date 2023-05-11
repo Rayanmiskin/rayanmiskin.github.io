@@ -1,15 +1,15 @@
 # Site settings
-title: Shrena Kishokumar - Aspiring Software Engineer and Digital Artist 
+title: Rayan Miskin 
 description: "My works could be found here"
 baseurl: "" # for test: remove string '/space-jekyll-template' to ''
-url: "https://shrenakishok.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
+url: "https://rayanmiskin.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
 username: Shrena Kishokumar 
 user_title: Shrena Kishokumar - Aspiring Software Engineer 
-email: shrenakishok@gmail.com
-twitter_username: shrenakishok
-github_username:  shrenakishok
+email: rayanmiskin321@gmail.com
+twitter_username: gamerwahmn
+github_username:  Rayanmiskin
 discord_invite: cj5rg # Example: Discord server invite gg extension like in 'https://discord.gg/cj5rg'
 linkedin_public_url: shrena-kishokumar # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
 disqus_username: loremipsum
