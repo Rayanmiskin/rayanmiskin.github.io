@@ -5,8 +5,8 @@ baseurl: "" # for test: remove string '/space-jekyll-template' to ''
 url: "https://rayanmiskin.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
-username: Shrena Kishokumar 
-user_title: Shrena Kishokumar - Aspiring Software Engineer 
+username: Rayan Miskin
+user_title: Rayan Miskin - Aspiring Software Engineer 
 email: rayanmiskin321@gmail.com
 twitter_username: gamerwahmn
 github_username:  Rayanmiskin
