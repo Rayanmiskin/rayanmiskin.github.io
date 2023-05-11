@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Lost in Thoughts"
@@ -12,5 +11,6 @@ categories:
 ---
 
 <img src="/assets/img/sketch06.jpeg">
+
 
 
