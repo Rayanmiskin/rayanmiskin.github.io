@@ -11,7 +11,7 @@ categories:
 ---
 
 
-<img src="http://tssutha.github.io/assets/img/sketch04.jpeg">
+<img src="/assets/img/sketch04.jpeg">
 
 ## How does art influence you? 
 
