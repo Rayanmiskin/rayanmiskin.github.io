@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Sketches 2023"
+title:  "Cover Page for Photography"
 image: ''
 date:  2023-05-05 00:06:31
 tags:
