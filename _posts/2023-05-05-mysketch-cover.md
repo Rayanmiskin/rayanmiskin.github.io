@@ -10,6 +10,6 @@ categories:
 - Learn GH 
 ---
 
-<img src="https://tssutha.github.io/assets/sketch01.jpeg">
+<img src="https://tssutha.github.io/assets/img/sketch01.jpeg">
 
 
