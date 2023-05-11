@@ -11,6 +11,6 @@ categories:
 - Learn GH 
 ---
 
-<img src="https://tssutha.github.io/assets/img/sketch06.jpeg">
+<img src="/assets/img/sketch06.jpeg">
 
 
