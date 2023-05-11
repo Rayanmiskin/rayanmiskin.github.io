@@ -2,7 +2,7 @@
 title: Shrena Kishokumar - Aspiring Software Engineer and Digital Artist 
 description: "My works could be found here"
 baseurl: "" # for test: remove string '/space-jekyll-template' to ''
-url: "" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
+url: "https://tssutha.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
 username: Shrena Kishokumar 
@@ -47,11 +47,12 @@ links:
       key_trigger: 5
   section_2:
     - title: github
-      url: "https://github.com/shrenakishok"
+      url: https://github.com/shrenakishok
       new_tab: true
       key_trigger: g
     - title: twitter
-      url:"https://twitter.com/shrenakishok"
+      url:https://twitter.com/shrenakishok
+      new_tab: true
       key_trigger: t
     - title: search
       url: ""
