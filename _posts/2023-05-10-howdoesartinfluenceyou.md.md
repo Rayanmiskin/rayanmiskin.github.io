@@ -11,7 +11,7 @@ categories:
 ---
 
 
-<img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/02/raw.gif">
+<img src="http://tssutha.github.io/assets/img/silence.jpeg">
 
 ## How does art influence you? 
 
