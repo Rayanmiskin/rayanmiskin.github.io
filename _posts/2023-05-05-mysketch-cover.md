@@ -10,6 +10,6 @@ categories:
 - Learn GH 
 ---
 
-<img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/02/raw.gif">
+<img src="https://tssutha.github.io/assets/sketch01.jpeg">
 
 
